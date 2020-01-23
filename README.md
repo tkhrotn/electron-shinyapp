@@ -20,7 +20,7 @@ The standalone executable is created in the "sample-win32-x64" directory.
 「sample-win32-x64」ディレクトリ内にアプリケーションが作成されます。
 
 To add R packages to be used in the application, launch the portable version R from R-Portable.exe in the “R-Portable” directory and run `install.packages()`.
-アプリで使用するRのパッケージを追加する場合は、「R-Portable」ディレクトリのR-Portable.exeからポータブル版Rを立ち上げて、install.packages()によりインストールします。
+アプリで使用するRのパッケージを追加する場合は、「R-Portable」ディレクトリのR-Portable.exeからポータブル版Rを立ち上げて、`install.packages()`によりインストールします。
 
 
 ## References 参考情報
