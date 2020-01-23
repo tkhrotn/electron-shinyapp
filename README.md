@@ -15,7 +15,6 @@ Shinyアプリのコードは「app/app.R」です。RStudioで開発を行う�
 
 アプリで使用するRのパッケージを追加する場合は、「R-Portable」ディレクトリのR-Portable.exeからポータブル版Rを立ち上げて、install.package()によりインストールします。
 
-
 参考情報：
 
 Node.js
@@ -32,5 +31,3 @@ https://sourceforge.net/projects/rportable/
 
 Electron_ShinyApp_Deployment
 https://github.com/ksasso/Electron_ShinyApp_Deployment
-
-
