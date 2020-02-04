@@ -1,6 +1,7 @@
 # electron-shinyapp
 
 Combine Electron with R-Portable and RStudio Shiny package to deliver Electron Applications that run standalone with R and Shiny.
+
 Electronフレームワークとポータブル版Rを使用して、Shinyアプリケーションをスタンドアロンプログラム化します。
 
 ## To Use 使用方法
@@ -20,6 +21,7 @@ The standalone executable is created in the "sample-win32-x64" directory.
 「sample-win32-x64」ディレクトリ内にアプリケーションが作成されます。
 
 To add R packages to be used in the application, launch the portable version R from R-Portable.exe in the “R-Portable” directory and run `install.packages()`.
+
 アプリで使用するRのパッケージを追加する場合は、「R-Portable」ディレクトリのR-Portable.exeからポータブル版Rを立ち上げて、`install.packages()`によりインストールします。
 
 
